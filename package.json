@@ -1,0 +1,15 @@
+{
+  "name": "Open source chatroom",
+  "version": "1.0.0",
+  "description": "A simple chatroom using Node.js and Socket.io. soon to be made MASSIVE",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.0.0"
+  },
+  "author": "Lightswitch2",
+  "license": "ISC"
+}
